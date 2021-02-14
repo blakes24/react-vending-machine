@@ -1,0 +1,19 @@
+.Soda {
+	background-image: url('./soda.jpg');
+	background-position-x: center;
+	background-position-y: bottom;
+	background-repeat: no-repeat;
+	background-color: #fef8f8;
+	height: 94vh;
+}
+
+.Soda > h1 {
+	padding-top: 2rem;
+	font-size: 3rem;
+	margin-bottom: 1rem;
+	margin-top: 0;
+}
+
+.Soda a {
+	font-size: 20px;
+}

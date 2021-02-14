@@ -1,0 +1,21 @@
+.Chips {
+	background-image: url('./chips.jpg');
+	background-position-x: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgb(255, 234, 44);
+	height: 95vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.Chips > h1 {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.Chips a {
+	font-size: 20px;
+	margin-bottom: 7rem;
+}

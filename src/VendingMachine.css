@@ -1,0 +1,19 @@
+.VendingMachine {
+	background-image: url('./vend.jpg');
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: black;
+	height: 110vh;
+	color: white;
+}
+
+.VendingMachine > h1 {
+	padding-top: 1.5rem;
+	margin-top: 0;
+}
+
+.VendingMachine a {
+	color: violet;
+	font-size: 20px;
+}
